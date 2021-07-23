@@ -1,0 +1,32 @@
+{
+    "name": "pack-common",
+    "displayName": "pack-common",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "vin5dev",
+    "repository": {},
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "christian-kohler.path-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
+        "dsznajder.es7-react-js-snippets",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "gaplo917.gapstylevs",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-wsl",
+        "ryu1kn.partial-diff",
+        "usama8800.tab-groups",
+        "vscode-icons-team.vscode-icons",
+        "wayou.vscode-todo-highlight",
+        "zhuangtongfa.material-theme",
+        "wwm.better-align",
+        "msjsdiag.debugger-for-chrome"
+    ]
+}

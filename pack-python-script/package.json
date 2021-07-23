@@ -1,0 +1,19 @@
+{
+    "name": "pack-python-script",
+    "displayName": "pack-python-script",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "vin5dev",
+    "repository": {},
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-python.python", 
+        "ms-python.vscode-pylance", 
+        "ms-toolsai.jupyter"
+    ]
+}
