@@ -1,0 +1,22 @@
+{
+    "name": "pack-react",
+    "displayName": "pack-react",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "vin5dev",
+    "repository": {},
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "dbaeumer.vscode-eslint", 
+        "dsznajder.es7-react-js-snippets", 
+        "esbenp.prettier-vscode", 
+        "jpoissonnier.vscode-styled-components", 
+        "msjsdiag.debugger-for-chrome",
+        "msjsdiag.vscode-react-native"
+    ]
+}
