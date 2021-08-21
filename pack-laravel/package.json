@@ -11,21 +11,15 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "adpyke.vscode-sql-formatter", 
-        "bmewburn.vscode-intelephense-client", 
-        "dbaeumer.vscode-eslint", 
-        "dsznajder.es7-react-js-snippets", 
-        "esbenp.prettier-vscode", 
-        "felixfbecker.php-intellisense", 
-        "gaplo917.gapstylevs", 
-        "jpoissonnier.vscode-styled-components", 
-        "msjsdiag.debugger-for-chrome",
-        "msjsdiag.vscode-react-native", 
-        "onecentlin.laravel-blade", 
-        "onecentlin.laravel5-snippets", 
-        "ritwickdey.live-sass", 
-        "ritwickdey.LiveServer", 
+    "extensionPack": [
+        "adpyke.vscode-sql-formatter",
+        "bmewburn.vscode-intelephense-client",
+        "esbenp.prettier-vscode",
+        "felixfbecker.php-intellisense",
+        "onecentlin.laravel-blade",
+        "onecentlin.laravel5-snippets",
+        "ritwickdey.live-sass",
+        "ritwickdey.LiveServer",
         "ryannaddy.laravel-artisan"
     ]
 }
