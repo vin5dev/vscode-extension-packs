@@ -12,7 +12,6 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "dbaeumer.vscode-eslint", 
         "dsznajder.es7-react-js-snippets", 
         "esbenp.prettier-vscode", 
         "jpoissonnier.vscode-styled-components", 
