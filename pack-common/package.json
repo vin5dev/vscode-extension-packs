@@ -17,15 +17,14 @@
         "gaplo917.gapstylevs",
 
         "wwm.better-align",
-        "msjsdiag.debugger-for-chrome",
         "wayou.vscode-todo-highlight",
         "ryu1kn.partial-diff",
         "usama8800.tab-groups",
         "esbenp.prettier-vscode",
-        "CoenraadS.bracket-pair-colorizer",
         "christian-kohler.path-intellisense",
 
         "eamodio.gitlens",
+        "redhat.vscode-yaml",
 
         "ms-vscode-remote.remote-ssh",
         "ms-vscode-remote.remote-ssh-edit",
