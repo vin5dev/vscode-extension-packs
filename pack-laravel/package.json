@@ -14,7 +14,6 @@
     "extensionPack": [
         "adpyke.vscode-sql-formatter",
         "bmewburn.vscode-intelephense-client",
-        "esbenp.prettier-vscode",
         "felixfbecker.php-intellisense",
         "onecentlin.laravel-blade",
         "onecentlin.laravel5-snippets",

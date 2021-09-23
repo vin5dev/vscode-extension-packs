@@ -13,9 +13,7 @@
     ],
     "extensionPack": [ 
         "dsznajder.es7-react-js-snippets", 
-        "esbenp.prettier-vscode", 
         "jpoissonnier.vscode-styled-components", 
-        "msjsdiag.debugger-for-chrome",
         "msjsdiag.vscode-react-native"
     ]
 }
