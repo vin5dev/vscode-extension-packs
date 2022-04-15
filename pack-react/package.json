@@ -14,6 +14,7 @@
     "extensionPack": [ 
         "dsznajder.es7-react-js-snippets", 
         "jpoissonnier.vscode-styled-components", 
-        "msjsdiag.vscode-react-native"
+        "msjsdiag.vscode-react-native",
+        "bradlc.vscode-tailwindcss"
     ]
 }

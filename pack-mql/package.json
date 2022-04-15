@@ -11,7 +11,8 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
+        "ms-vscode.cpptools",
         "nicholishen.mql-extension-pack",
         "nicholishen.mql-snippets",
         "nicholishen.mql-over-cpp",

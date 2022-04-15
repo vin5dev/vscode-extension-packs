@@ -12,13 +12,11 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "adpyke.vscode-sql-formatter",
         "bmewburn.vscode-intelephense-client",
         "felixfbecker.php-intellisense",
         "onecentlin.laravel-blade",
         "onecentlin.laravel5-snippets",
-        "ritwickdey.live-sass",
-        "ritwickdey.LiveServer",
-        "ryannaddy.laravel-artisan"
+        "ryannaddy.laravel-artisan",
+        "shufo.vscode-blade-formatter"
     ]
 }
