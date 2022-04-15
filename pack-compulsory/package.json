@@ -1,6 +1,6 @@
 {
-    "name": "pack-compulsory",
-    "displayName": "pack-compulsory",
+    "name": "a-pack-compulsory",
+    "displayName": "a-pack-compulsory",
     "description": "",
     "version": "0.0.1",
     "publisher": "vin5dev",
@@ -39,6 +39,8 @@
     "_comment": [
         "gaplo917.gapstylevs",
         "ritwickdey.live-sass",
-        "ritwickdey.LiveServer"
+        "ritwickdey.LiveServer",
+        "humao.rest-client",
+        "alexcvzz.vscode-sqlite"
     ]
 }
