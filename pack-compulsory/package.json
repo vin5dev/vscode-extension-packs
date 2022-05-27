@@ -23,7 +23,10 @@
         "christian-kohler.path-intellisense",
 
         "eamodio.gitlens",
+        "donjayamanne.githistory",
+
         "redhat.vscode-yaml",
+        "mikestead.dotenv",
 
         "ms-vscode-remote.remote-ssh",
         "ms-vscode-remote.remote-ssh-edit",
@@ -32,6 +35,10 @@
         "ms-azuretools.vscode-docker",
 
         "dbaeumer.vscode-eslint",
+        "formulahendry.auto-rename-tag",
+
+        "xabikos.JavaScriptSnippets",
+
         "adpyke.vscode-sql-formatter",
 
         "GitHub.copilot"

@@ -15,6 +15,7 @@
         "dsznajder.es7-react-js-snippets", 
         "jpoissonnier.vscode-styled-components", 
         "msjsdiag.vscode-react-native",
-        "bradlc.vscode-tailwindcss"
+        "bradlc.vscode-tailwindcss",
+        "styled-components.vscode-styled-components"
     ]
 }
